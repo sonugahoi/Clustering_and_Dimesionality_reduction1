@@ -1,1 +1,9 @@
-# Clustering_and_Dimesionality_reduction1
+# Clustering and Dimesionality reduction 
+
+## NAME - SACHIN GUPTA
+
+CV POINTS -
+
+•	Implemented K-Means and Expectation Maximization Clustering, Optimized Cluster count (K) by Elbow Method.
+
+•	Performed Feature Reduction Using PCA, ICA, Randomized Projections and Forward Selection.
